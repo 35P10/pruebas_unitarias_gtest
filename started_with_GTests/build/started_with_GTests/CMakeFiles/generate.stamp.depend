@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/SelectLibraryConfigurations.cmake
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/started_with_GTests/CMakeLists.txt
+C:/vcpkg/installed/x64-windows/share/GTest/GTestConfig.cmake
+C:/vcpkg/installed/x64-windows/share/GTest/GTestConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/GTest/GTestTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/GTest/GTestTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/GTest/GTestTargets.cmake
+C:/vcpkg/installed/x64-windows/share/pthreads/vcpkg-cmake-wrapper.cmake

@@ -1,0 +1,3 @@
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/build/started_with_GTests/CMakeFiles/started_with_GTests.dir

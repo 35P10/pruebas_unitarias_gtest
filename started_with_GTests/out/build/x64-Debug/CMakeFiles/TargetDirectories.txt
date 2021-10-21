@@ -1,0 +1,5 @@
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/out/build/x64-Debug/started_with_GTests/CMakeFiles/started_with_GTests.dir
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/out/build/x64-Debug/started_with_GTests/CMakeFiles/edit_cache.dir
+C:/Users/lucca.DESKTOP-S2DKFDB/source/repos/started_with_GTests/out/build/x64-Debug/started_with_GTests/CMakeFiles/rebuild_cache.dir

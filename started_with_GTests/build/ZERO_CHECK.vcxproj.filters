@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lucca.DESKTOP-S2DKFDB\source\repos\started_with_GTests\build\CMakeFiles\7aa81842603fccee3bc288f99e3da450\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2E497C88-1720-326C-B2ED-0ECF3FA8A73B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
