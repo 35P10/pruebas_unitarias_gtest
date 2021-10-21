@@ -1,6 +1,6 @@
 # Pruebas Unitarias GTest
 
-## Visual Studiop + CMake + GTest
+## Visual Studio + CMake + GTest
 
 ### Pre-requisitos
 
